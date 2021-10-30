@@ -10,8 +10,8 @@ import "channels"
 import "bootstrap"
 import "jquery"
 import "jquery.easing"
-import "popper.js@"
 import "chart.js"
+import '@popperjs/core'
 
 Rails.start()
 Turbolinks.start()
